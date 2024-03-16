@@ -7,3 +7,4 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [<img src="Eloise.png">](offline_due_to_censorship)
 
+Empereur Pirate.
