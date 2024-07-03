@@ -11,4 +11,6 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [Towards a Dynamic 2.0 Model of Generative Intelligence](https://empereur-pirate.medium.com/towards-a-dynamic-2-0-model-of-generative-intelligence-6128d64fb523)
 
+[Qualitative Emergence: The Paradox of Statistical AI in Language Comprehension](https://empereur-pirate.medium.com/qualitative-emergence-the-paradox-of-statistical-ai-in-language-comprehension-ccd1e221423e)
+
 Empereur Pirate.
