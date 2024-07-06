@@ -13,4 +13,6 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [Qualitative Emergence: The Paradox of Statistical AI in Language Comprehension](https://empereur-pirate.medium.com/qualitative-emergence-the-paradox-of-statistical-ai-in-language-comprehension-ccd1e221423e)
 
+[AI’s Cognitive Mirror: The Illusion of Consciousness in the Digital Age](https://empereur-pirate.medium.com/ais-cognitive-mirror-the-illusion-of-consciousness-in-the-digital-age-46f3ddae60a6)
+
 Empereur Pirate.
