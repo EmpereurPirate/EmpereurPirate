@@ -17,4 +17,6 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [The AI Revolution: Reshaping Governance, Society, and Human Consciousness in the 21st Century](https://empereur-pirate.medium.com/the-ai-revolution-reshaping-governance-society-and-human-consciousness-in-the-21st-century-b8cfd4215297)
 
+[The Double-Edged Sword of AI in Education: Navigating Ethical Challenges, Cognitive Development, and the Nature of Consciousness in the Age of Generative Technologies](https://empereur-pirate.medium.com/the-double-edged-sword-of-ai-in-education-navigating-ethical-challenges-cognitive-development-2e71d5aca1d1)
+
 Empereur Pirate.
