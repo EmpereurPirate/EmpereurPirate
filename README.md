@@ -19,4 +19,6 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [The Double-Edged Sword of AI in Education: Navigating Ethical Challenges, Cognitive Development, and the Nature of Consciousness in the Age of Generative Technologies](https://empereur-pirate.medium.com/the-double-edged-sword-of-ai-in-education-navigating-ethical-challenges-cognitive-development-2e71d5aca1d1)
 
+[Artificial Minds, Human Consequences: Unraveling AI’s Impact on Education, Cognition, and Cultural Production](https://empereur-pirate.medium.com/artificial-minds-human-consequences-unraveling-ais-impact-on-education-cognition-and-cultural-a503b88d4524)
+
 Empereur Pirate.
