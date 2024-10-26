@@ -21,4 +21,6 @@ https://user-images.githubusercontent.com/55546694/154358204-b20c7f69-439a-4a64-
 
 [Artificial Minds, Human Consequences: Unraveling AI’s Impact on Education, Cognition, and Cultural Production](https://empereur-pirate.medium.com/artificial-minds-human-consequences-unraveling-ais-impact-on-education-cognition-and-cultural-a503b88d4524)
 
+[The Character.AI Tragedy: How a Teen’s Fatal Bond with an AI Chatbot Reveals the Dangers of Artificial Companionship](https://empereur-pirate.medium.com/the-character-ai-33d53c2e45c8)
+
 Empereur Pirate.
